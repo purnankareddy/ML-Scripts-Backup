@@ -14,8 +14,8 @@ mydb = mysql.connector.connect(
   passwd="password",
   database="mydatabase"
 )
-latitude="42.3601"
-longitude="-71.0589"
+latitude="42.36"
+longitude="-71.05"
 datetimes=tb()
 
 #mycursor = mydb.cursor()
